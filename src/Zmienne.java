@@ -36,5 +36,9 @@ public class Zmienne {
         boolean slonce = true; //false
         System.out.println(slonce);
 
+        // https://github.com/przemjan/trzeciaTgr32022
+        // windows r
+        // \\ubuckp - enter
+        // public/janisz
     }
 }
